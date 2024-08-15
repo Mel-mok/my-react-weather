@@ -13,12 +13,18 @@ export default function Footer() {
         </a>{" "}
         and is on{" "}
         <a
-          href="https://github.com/Mel-mok/Weather-By-Melba.git"
-          target="_blank" rel="noreferrer">
+          href="https://github.com/Mel-mok/my-react-weather.git"
+          target="_blank"
+          rel="noreferrer"
+        >
           Github
         </a>{" "}
         and is hosted on{" "}
-        <a href="https://weather-by-melba.netlify.app/" target="_blank" rel="noreferrer">
+        <a
+          href="https://my-weather-with-react.netlify.app/"
+          target="_blank"
+          rel="noreferrer"
+        >
           Netlify
         </a>
       </footer>
