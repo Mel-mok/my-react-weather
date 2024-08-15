@@ -30,7 +30,7 @@ export default function Main() {
           <div className="Icon">
             <img
               src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png"
-              className="Icon"
+              className="Icon" alt="weather icon"
             />{" "}
           </div>
           <div className="City-temperature" id="city-temperature">

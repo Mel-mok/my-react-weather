@@ -9,7 +9,7 @@ export default function Title() {
         <div className="Emoji">
           <img
             src="http://shecodes-assets.s3.amazonaws.com/api/weather/icons/rain-day.png"
-            className="Emoji"
+            className="Emoji" alt="weather icon"
           />
         </div>
         <div className="App-name">Weather</div>
